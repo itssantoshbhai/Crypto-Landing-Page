@@ -3,7 +3,7 @@
 ## This is Project-5
 
 Live Link 🔗
-https://digital-marketing-pr-4.netlify.app/
+https://crypto-page-pr-5.netlify.app/
 
 ## SNAP
 
